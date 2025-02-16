@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "util.h": "c",
+        "m.h": "c",
+        "im.h": "c",
+        "cam.h": "c"
+    }
+}
